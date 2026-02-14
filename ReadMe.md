@@ -1,4 +1,4 @@
-# Hi there, I'm yjja 👋 
+# yjja 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;AI+Enthusiast;Game+Developer+Learner" alt="Typing SVG" />
@@ -7,10 +7,7 @@
 ---
 
 ### 💫 About Me
-I'm a passionate developer who loves exploring almost every corner of technology—from web development and backend systems to artificial intelligence and game design. 
-
-- 🔭 I’m currently working on some cool projects.
-- 🚀 Expert in juggling various programming languages.
+Saya aseli nya 2
 - 📫 How to reach me: [Facebook](https://facebook.com/abbas.abbas.837) | [YouTube](https://youtube.com/@UCC2cULhUYp-dp0576ZziB3Q)
 
 ---
