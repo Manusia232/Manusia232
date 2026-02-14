@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 Saya aseli nya 2
-- 📫 How to reach me: [Facebook](https://facebook.com/abbas.abbas.837) | [YouTube](https://youtube.com/@UCC2cULhUYp-dp0576ZziB3Q)
+- Medsos: [Facebook](https://facebook.com/abbas.abbas.837) | [YouTube](https://youtube.com/@UCC2cULhUYp-dp0576ZziB3Q)
 
 ---
 
