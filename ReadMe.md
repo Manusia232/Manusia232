@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>I’m looking to collaborate on<br>I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+yjja
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abbas.abbas.837) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCC2cULhUYp-dp0576ZziB3Q) 
