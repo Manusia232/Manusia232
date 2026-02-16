@@ -42,6 +42,8 @@ Saya aseli nya 2
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Manusia232&icon=0&color=0" alt="Visitor Count" />
-</div>
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=Manusia232&pretty=true)](https://visitcount.itsvg.in)
